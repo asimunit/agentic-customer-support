@@ -1,0 +1,152 @@
+[
+  {
+    "id": "kb-001",
+    "title": "How to Reset Your Password",
+    "content": "To reset your password: 1. Go to the login page and click 'Forgot Password'. 2. Enter your email address. 3. Check your email for a reset link. 4. Click the link and enter a new password. 5. Confirm your new password and save. If you don't receive the email, check your spam folder or contact support.",
+    "category": "account",
+    "tags": ["password", "reset", "login", "account", "security"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 45,
+    "rating": 4.8
+  },
+  {
+    "id": "kb-002",
+    "title": "Billing Cycle and Payment Methods",
+    "content": "Your billing cycle starts on the day you first subscribed. We accept credit cards, debit cards, and PayPal. Payments are automatically charged on your billing date. You can update your payment method in Account Settings > Billing. For failed payments, you have a 3-day grace period before service suspension.",
+    "category": "billing",
+    "tags": ["billing", "payment", "subscription", "credit card", "paypal"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 67,
+    "rating": 4.6
+  },
+  {
+    "id": "kb-003",
+    "title": "App Crashes on Mobile Devices",
+    "content": "If the app crashes frequently: 1. Update to the latest version from your app store. 2. Restart your device. 3. Clear the app cache (Android: Settings > Apps > [App] > Storage > Clear Cache). 4. Free up device storage (at least 1GB recommended). 5. Check for OS updates. If crashes persist, uninstall and reinstall the app.",
+    "category": "technical",
+    "tags": ["mobile", "crash", "app", "android", "ios", "troubleshooting"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 34,
+    "rating": 4.3
+  },
+  {
+    "id": "kb-004",
+    "title": "How to Cancel Your Subscription",
+    "content": "To cancel your subscription: 1. Log into your account. 2. Go to Account Settings > Subscription. 3. Click 'Cancel Subscription'. 4. Select a reason for cancellation. 5. Confirm cancellation. Your service will continue until the end of your current billing period. You can reactivate before the period ends without losing data.",
+    "category": "billing",
+    "tags": ["cancel", "subscription", "billing", "account", "refund"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 23,
+    "rating": 4.4
+  },
+  {
+    "id": "kb-005",
+    "title": "Unable to Upload Files",
+    "content": "If you can't upload files: 1. Check file size (max 50MB per file). 2. Ensure file format is supported (jpg, png, pdf, doc, docx). 3. Check your internet connection. 4. Try a different browser or clear browser cache. 5. Disable browser extensions temporarily. 6. If using mobile, try the desktop version. Contact support if the issue persists.",
+    "category": "technical",
+    "tags": ["upload", "files", "technical", "browser", "size limit"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 28,
+    "rating": 4.2
+  },
+  {
+    "id": "kb-006",
+    "title": "Two-Factor Authentication Setup",
+    "content": "To enable two-factor authentication: 1. Go to Account Settings > Security. 2. Click 'Enable 2FA'. 3. Download an authenticator app (Google Authenticator, Authy). 4. Scan the QR code with your app. 5. Enter the 6-digit code from your app. 6. Save your backup codes in a safe place. 2FA adds an extra layer of security to your account.",
+    "category": "account",
+    "tags": ["2fa", "security", "authentication", "account", "protection"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 19,
+    "rating": 4.7
+  },
+  {
+    "id": "kb-007",
+    "title": "Data Export and Download",
+    "content": "To export your data: 1. Go to Account Settings > Data & Privacy. 2. Click 'Export Data'. 3. Select which data types to include. 4. Choose export format (JSON, CSV, or ZIP). 5. Click 'Request Export'. 6. You'll receive an email when your export is ready (usually within 24 hours). The download link expires after 7 days.",
+    "category": "account",
+    "tags": ["export", "data", "download", "privacy", "backup"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 12,
+    "rating": 4.5
+  },
+  {
+    "id": "kb-008",
+    "title": "Connection Timeout Errors",
+    "content": "If you experience connection timeouts: 1. Check your internet connection speed. 2. Try refreshing the page or restarting the app. 3. Clear your browser cache and cookies. 4. Disable VPN if you're using one. 5. Try a different network (mobile data vs WiFi). 6. Check if there are any ongoing service outages on our status page. Contact support if timeouts persist.",
+    "category": "technical",
+    "tags": ["connection", "timeout", "network", "internet", "error"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 41,
+    "rating": 4.1
+  },
+  {
+    "id": "kb-009",
+    "title": "Upgrading Your Plan",
+    "content": "To upgrade your subscription plan: 1. Go to Account Settings > Subscription. 2. Click 'Change Plan'. 3. Select your desired plan. 4. Review the pricing and features. 5. Click 'Upgrade Now'. 6. Confirm payment method. Your upgrade is effective immediately and you'll be charged the prorated amount for the current billing period.",
+    "category": "billing",
+    "tags": ["upgrade", "plan", "subscription", "billing", "payment"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 56,
+    "rating": 4.6
+  },
+  {
+    "id": "kb-010",
+    "title": "Email Notifications Not Working",
+    "content": "If you're not receiving email notifications: 1. Check your email settings in Account Settings > Notifications. 2. Verify your email address is correct and confirmed. 3. Check your spam/junk folder. 4. Add our email domain to your whitelist. 5. Check if your email provider blocks bulk emails. 6. Try updating your email address. It may take up to 15 minutes for changes to take effect.",
+    "category": "technical",
+    "tags": ["email", "notifications", "spam", "settings", "delivery"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 33,
+    "rating": 4.0
+  },
+  {
+    "id": "kb-011",
+    "title": "Refund Policy and Process",
+    "content": "Our refund policy: Full refunds available within 30 days of purchase for annual plans, 7 days for monthly plans. To request a refund: 1. Contact support with your account email. 2. Provide reason for refund request. 3. Include order/transaction ID if available. Refunds are processed within 5-7 business days to your original payment method. Service usage after the refund period may affect eligibility.",
+    "category": "billing",
+    "tags": ["refund", "policy", "billing", "payment", "cancellation"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 18,
+    "rating": 4.3
+  },
+  {
+    "id": "kb-012",
+    "title": "API Rate Limits and Usage",
+    "content": "API rate limits depend on your plan: Free: 100 requests/hour, Pro: 1,000 requests/hour, Enterprise: 10,000 requests/hour. If you exceed limits, you'll receive a 429 error. To check usage: 1. Go to Developer Settings > API Usage. 2. View current usage and limits. 3. Upgrade your plan if needed. Rate limits reset every hour. Use webhooks instead of polling to reduce API calls.",
+    "category": "technical",
+    "tags": ["api", "rate limit", "developer", "usage", "limits"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 15,
+    "rating": 4.4
+  },
+  {
+    "id": "kb-013",
+    "title": "Account Verification Process",
+    "content": "To verify your account: 1. Check your email for a verification message. 2. Click the verification link (expires in 24 hours). 3. If expired, go to Account Settings > Verification and click 'Resend Email'. 4. For phone verification, enter the code sent via SMS. 5. Upload ID documents if required for business accounts. Verification may take 1-2 business days for manual review.",
+    "category": "account",
+    "tags": ["verification", "account", "email", "phone", "identity"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 29,
+    "rating": 4.2
+  },
+  {
+    "id": "kb-014",
+    "title": "Browser Compatibility Issues",
+    "content": "Supported browsers: Chrome 90+, Firefox 88+, Safari 14+, Edge 90+. If you experience issues: 1. Update your browser to the latest version. 2. Disable browser extensions. 3. Clear cache and cookies. 4. Enable JavaScript and cookies. 5. Try incognito/private mode. 6. Use a supported browser. For optimal experience, we recommend Chrome or Firefox.",
+    "category": "technical",
+    "tags": ["browser", "compatibility", "chrome", "firefox", "safari"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 22,
+    "rating": 4.1
+  },
+  {
+    "id": "kb-015",
+    "title": "Team Collaboration Features",
+    "content": "Collaboration features include: 1. Team workspaces with shared access. 2. Real-time editing and comments. 3. Permission levels (view, edit, admin). 4. Activity feeds and notifications. 5. File sharing and version history. To invite team members: Go to Team Settings > Members > Invite. Enter email addresses and set permissions. Invitees receive an email invitation to join.",
+    "category": "product",
+    "tags": ["team", "collaboration", "sharing", "permissions", "workspace"],
+    "created_at": "2024-01-01T00:00:00",
+    "resolution_count": 37,
+    "rating": 4.5
+  }
+]
